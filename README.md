@@ -1,2 +1,3 @@
 # hello-world
-First program I'm doing on github
+
+This is the FIRST program I am writing on Github.
